@@ -1,0 +1,28 @@
+{
+    "invites": {},
+    "welcome_templates": {},
+    "autorole": {},
+    "1431663848452132876": {
+        "welcome_message": "k",
+        "xp": {
+            "1206125304116940810": {
+                "xp": 83,
+                "level": 3
+            }
+        },
+        "autoroles": {
+            "member": 1431663848775090354
+        }
+    },
+    "templates": {
+        "ds baswall": {
+            "welcome_message": "k",
+            "xp": {
+                "1206125304116940810": {
+                    "xp": 20,
+                    "level": 2
+                }
+            }
+        }
+    }
+}

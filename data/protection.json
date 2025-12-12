@@ -1,0 +1,24 @@
+{
+    "antispam": {
+        "enabled": true,
+        "action": "mute",
+        "threshold": 6,
+        "whitelist": []
+    },
+    "antilink": {
+        "enabled": false,
+        "regex_list": [],
+        "action": "delete"
+    },
+    "antinuke": {
+        "enabled": true,
+        "max_bans_per_minute": 3,
+        "max_roles_deleted": 2
+    },
+    "1431663848452132876": {
+        "actions": {
+            "antinuke": "delete"
+        },
+        "log": 1433119635355471904
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "example_guild_id": {
+        "prefix": "/",
+        "premium": false,
+        "botpremium": false,
+        "autorole": {
+            "member_role_id": null,
+            "bot_role_id": null,
+            "booster_role_id": null
+        },
+        "status_channels": {
+            "welcome_channel": null,
+            "log_channel": null,
+            "giveaway_channel": null
+        }
+    }
+}

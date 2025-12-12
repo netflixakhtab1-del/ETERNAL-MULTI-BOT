@@ -1,0 +1,30 @@
+{
+    "1431663848452132876": {
+        "users": {
+            "1206125304116940810": {
+                "xp": 91,
+                "level": 0
+            }
+        },
+        "blacklist_channels": [],
+        "blacklist_roles": [],
+        "boost_roles": {},
+        "rewards": {},
+        "level_message": "**GG {user(proper)}! You reached level {level}!**",
+        "level_image": null
+    },
+    "1429073697716834307": {
+        "users": {
+            "1206125304116940810": {
+                "xp": 13,
+                "level": 0
+            }
+        },
+        "blacklist_channels": [],
+        "blacklist_roles": [],
+        "boost_roles": {},
+        "rewards": {},
+        "level_message": "**GG {user(proper)}! You reached level {level}!**",
+        "level_image": null
+    }
+}
