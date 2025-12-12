@@ -66,6 +66,5 @@ A **multi-feature Discord bot** designed for EternalMC Network, combining powerf
 
 ### **Step 1: Clone**
 ```bash
-git clone https://github.com/GameTime-Studies/EternalMC-MultiBot.git
-cd EternalMC-MultiBot
+gh repo clone netflixakhtab1-del/ETERNAL-MULTI-BOT
 py main
